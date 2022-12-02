@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=natekrth&theme=dracula&show_icons=true&locale=en" alt="natekrth" /></p>
 
+![snake gif](https://github.com/natekrth/natekrth/blob/output/github-contribution-grid-snake.gif)
 
 ## Social Media
 <p align="left">
