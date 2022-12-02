@@ -1,5 +1,6 @@
-### Hello 👋
+### Hello I'm Nate👋
 
+![](https://komarev.com/ghpvc/?username=natekrth&color=orange)
 <!--
 **natekrth/natekrth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
