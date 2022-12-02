@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natekrth&show_icons=true&locale=en&layout=compact" alt="natekrth" /></p>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=natekrth&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=natekrth&show_icons=true&locale=en" alt="natekrth" /></p>
 
 
