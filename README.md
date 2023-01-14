@@ -1,6 +1,6 @@
 ### Hello I'm Nate👋
 
-![](https://komarev.com/ghpvc/?username=natekrth&color=orange)
+<!-- ![](https://komarev.com/ghpvc/?username=natekrth&color=orange) -->
 <!--
 **natekrth/natekrth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,8 +33,8 @@ My Stack
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=natekrth&theme=dracula&show_icons=true&locale=en" alt="natekrth" /></p>
-
-![snake gif](https://github.com/natekrth/natekrth/blob/output/github-contribution-grid-snake.gif)
+<!-- 
+![snake gif](https://github.com/natekrth/natekrth/blob/output/github-contribution-grid-snake.gif) -->
 
 ## Social Media
 <p align="left">
