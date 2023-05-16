@@ -1,6 +1,6 @@
-<h2 align="center">Hello 👋 My name is Zion Keretho (Nate✈️)</h2>
+<h2 align="center"> Hello 👋  My name is Zion Keretho (Nate✈️)</h2>
 
-<h3 align="center">Software and knowledge engineering student from Kasetsart university</h3>
+<h4 align="center">Software and knowledge engineering student from Kasetsart University, Thailand</h4>
 
 <!-- ![](https://komarev.com/ghpvc/?username=natekrth&color=orange) -->
 <!--
