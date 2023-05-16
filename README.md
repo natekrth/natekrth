@@ -1,4 +1,6 @@
-### Hello I'm Nate👋
+<h2 align="center">Hello 👋 My name is Zion Keretho (Nate✈️)</h2>
+
+<h3 align="center">Software and knowledge engineering student from Kasetsart university</h3>
 
 <!-- ![](https://komarev.com/ghpvc/?username=natekrth&color=orange) -->
 <!--
@@ -32,7 +34,11 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Contact Me
+My Gmail: [zion.keretho@gmail.com](mailto:zion.keretho@gmail.com) 
+<br>
+<br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zion-keretho-a4331522b/)
+
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/natenatekrth/) -->
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natekrth&theme=dracula&show_icons=true&locale=en&layout=compact" alt="natekrth" /></p> -->
 
