@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ## Contact Me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zion-keretho-a4331522b/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/natenatekrth/)
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/natenatekrth/) -->
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natekrth&theme=dracula&show_icons=true&locale=en&layout=compact" alt="natekrth" /></p> -->
 
 <p>
@@ -48,6 +48,6 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/natekrth/natekrth/blob/output/github-contribution-grid-snake.gif) -->
 
 ## Social Media
-<p align="left">
-<a href="https://instagram.com/natenatekrth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="natenatekrth" height="30" width="40" /></a>
+<p>
+  <a href="https://instagram.com/natenatekrth" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
