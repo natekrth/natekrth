@@ -36,8 +36,11 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/natenatekrth/)
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natekrth&theme=dracula&show_icons=true&locale=en&layout=compact" alt="natekrth" /></p> -->
 
-<img height=180px src="http://github-readme-streak-stats.herokuapp.com?user=natekrth&theme=panda&hide_border=true"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natekrth&layout=compact)](https://github.com/natekrth/github-readme-stats)
+<p>
+  <img height=180px src="https://github-readme-stats.vercel.app/api?username=natekrth&theme=github_dark_dimmed"/>
+  <img height=180px src="http://github-readme-streak-stats.herokuapp.com?user=natekrth&theme=dark&hide_border=true&background=22272e&ring=3382ed"/>
+  <img height=180px src="https://github-readme-stats.vercel.app/api/top-langs/?username=natekrth&layout=compact&theme=github_dark_dimmed&hide_border=true"/>
+</p>
 
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=natekrth&theme=dracula&show_icons=true&locale=en" alt="natekrth" /></p> -->
