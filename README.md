@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/natenatekrth/)
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natekrth&theme=dracula&show_icons=true&locale=en&layout=compact" alt="natekrth" /></p> -->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=natekrth&theme=dracula&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=natekrth&theme=panda&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natekrth&layout=compact)](https://github.com/natekrth/github-readme-stats)
 
 
