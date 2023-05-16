@@ -45,8 +45,8 @@ My Gmail: [zion.keretho@gmail.com](mailto:zion.keretho@gmail.com)
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natekrth&theme=dracula&show_icons=true&locale=en&layout=compact" alt="natekrth" /></p> -->
 
 <p>
-  <img height=180px src="https://github-readme-stats.vercel.app/api?username=natekrth&theme=github_dark_dimmed"/>
-  <img height=180px src="http://github-readme-streak-stats.herokuapp.com?user=natekrth&theme=dark&hide_border=true&background=22272e&ring=3382ed"/>
+  <img height=170px src="https://github-readme-stats.vercel.app/api?username=natekrth&theme=github_dark_dimmed"/>
+  <img height=170px src="http://github-readme-streak-stats.herokuapp.com?user=natekrth&theme=dark&hide_border=true&background=22272e&ring=3382ed"/>
 </p>
 <p>
   <img height=180px width="550px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=natekrth&theme=github_dark&background=22272e&ring=3382ed"/>
