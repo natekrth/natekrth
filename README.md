@@ -1,8 +1,8 @@
 <h2 align="center"> Hello 👋  My name is Zion Keretho (Nate✈️)</h2>
+<h3 align="center">Software and knowledge engineering student from Kasetsart University, Thailand</h3>
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natekrth" alt="natekrth" /></a>
 </p>
-<h4 align="center">Software and knowledge engineering student from Kasetsart University, Thailand</h4>
 
 <!-- ![](https://komarev.com/ghpvc/?username=natekrth&color=orange) -->
 <!--
