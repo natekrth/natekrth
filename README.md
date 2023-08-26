@@ -15,7 +15,11 @@
 
 
 <h3 align="center">About me 😊</h3> 
-<p align="center">
+
+<p align="right">
+  <img src="https://i.pinimg.com/originals/e2/f0/b9/e2f0b9d5c44a0d5844935d429ef1445e.gif" height=200 width=20% />
+</p>
+<p align="left">
   <li>Name: Zion Keretho</li>
   <li>Nickname: Nate✈️</li>
   <li>Study📚: Software and knowledge engineering student at Kasetsart University, Thailand 🇹🇭</li>
