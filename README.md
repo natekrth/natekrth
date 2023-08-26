@@ -1,7 +1,16 @@
-<h2 align="center"> Hello 👋  My name is Zion Keretho (Nate✈️)</h2>
-<h3 align="center">Software and knowledge engineering student from Kasetsart University, Thailand</h3>
+<p align="center" style="font-size: 50px"><b>Hello 👋 </b><p>
+<p align="center"><img src="https://i.pinimg.com/564x/50/8a/b6/508ab6e1b12db69672d9bf2b1f795094.jpg" height=300 /></p>
+
+<h3 align="center">About me 😊</h3> 
+<p align="center">
+  <li>Name: Zion Keretho</li>
+  <li>Nickname: Nate✈️</li>
+  <li>Study📚: Software and knowledge engineering student at Kasetsart University, Thailand 🇹🇭</li>
+  <li>Interest🤩: Web Development, Internet of Things (IoT), Software Security
+</p>
+
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natekrth" alt="natekrth" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natekrth" alt="natekrth"/></a>
 </p>
 
 <!-- ![](https://komarev.com/ghpvc/?username=natekrth&color=orange) -->
@@ -41,6 +50,11 @@ My Gmail: [zion.keretho@gmail.com](mailto:zion.keretho@gmail.com)
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zion-keretho-a4331522b/)
 
+## Social Media
+<p>
+  <a href="https://instagram.com/natenatekrth" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
+
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/natenatekrth/) -->
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natekrth&theme=dracula&show_icons=true&locale=en&layout=compact" alt="natekrth" /></p> -->
 
@@ -57,8 +71,3 @@ My Gmail: [zion.keretho@gmail.com](mailto:zion.keretho@gmail.com)
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=natekrth&theme=dracula&show_icons=true&locale=en" alt="natekrth" /></p> -->
 <!-- 
 ![snake gif](https://github.com/natekrth/natekrth/blob/output/github-contribution-grid-snake.gif) -->
-
-## Social Media
-<p>
-  <a href="https://instagram.com/natenatekrth" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</p>
