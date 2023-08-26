@@ -1,5 +1,18 @@
 <h3 align="center">Hello 👋 </h3> 
-<p align="center"><img src="https://i.pinimg.com/564x/50/8a/b6/508ab6e1b12db69672d9bf2b1f795094.jpg" height=300 /></p>
+
+
+<!--  <p align="center"> <p align="left">
+    <img src="https://i.pinimg.com/564x/50/8a/b6/508ab6e1b12db69672d9bf2b1f795094.jpg" height=200 width=50% />
+  </p>
+  <p align="right">
+    <img src="https://i.pinimg.com/originals/4a/70/5e/4a705e028bb9f5d50995e68c791fb10a.gif" height=200 width=50% />
+  </p>
+</p> -->
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/4a/70/5e/4a705e028bb9f5d50995e68c791fb10a.gif" height=400 width=80% />
+</p>
+
 
 <h3 align="center">About me 😊</h3> 
 <p align="center">
@@ -8,6 +21,17 @@
   <li>Study📚: Software and knowledge engineering student at Kasetsart University, Thailand 🇹🇭</li>
   <li>Interest🤩: Web Development, Internet of Things (IoT), Software Security
 </p>
+
+<h3 align="center">Love ❤️</h3> 
+
+<p align="center">Aviation gee | Ocean Lover | Pop Pianist</p>
+<img src="https://i.pinimg.com/564x/6e/bc/e1/6ebce160088c34303dcbed03043ba0ff.jpg" width=32% align="left"/>
+<img src="https://i.pinimg.com/originals/e4/15/c4/e415c48c6387706cc02f92b09501cab5.gif" width=33% align="center"/>
+<img src="https://i.pinimg.com/originals/d7/36/1a/d7361a0960ad3d4b911e63ca54ade972.gif" width=300 height=205 align="right"/>
+
+
+<!--    <p align="left"> Ocean Lover -->
+<!-- </p> -->
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natekrth" alt="natekrth"/></a>
@@ -45,7 +69,7 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Contact Me
-My Gmail: [zion.keretho@gmail.com](mailto:zion.keretho@gmail.com) 
+My Gmail: **zion.keretho@gmail.com**
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zion-keretho-a4331522b/)
