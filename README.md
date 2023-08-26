@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 50px"><b>Hello 👋 </b><p>
+<h3 align="center">Hello 👋 </h3> 
 <p align="center"><img src="https://i.pinimg.com/564x/50/8a/b6/508ab6e1b12db69672d9bf2b1f795094.jpg" height=300 /></p>
 
 <h3 align="center">About me 😊</h3> 
