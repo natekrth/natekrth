@@ -4,7 +4,6 @@
 
 <h3 align="center">About me 😊</h3> 
 
-
 - **Name:** Zion Keretho
 - **Nickname:** Nate✈️
 - **Study📚:** Software and knowledge engineering student at Kasetsart University, Thailand 🇹🇭
@@ -12,17 +11,12 @@
  
 <h3 align="center">Love ❤️</h3> 
 
-<p align="center"><strong>Aviation geek | Ocean Lover | Pop Pianist</strong></p>
-<img src="https://i.pinimg.com/564x/6e/bc/e1/6ebce160088c34303dcbed03043ba0ff.jpg" width=31% align="left"/>
-<img src="https://i.pinimg.com/originals/e4/15/c4/e415c48c6387706cc02f92b09501cab5.gif" width=31% align="center"/>
-<img src="https://i.pinimg.com/originals/d7/36/1a/d7361a0960ad3d4b911e63ca54ade972.gif" width=30% height=160 align="right"/>
+<p align="center">Aviation geek | Ocean Lover | Pop Pianist</p>
 
-
-<!--    <p align="left"> Ocean Lover -->
-<!-- </p> -->
-
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natekrth" alt="natekrth"/></a>
+<p align="center">
+    <img src="https://i.pinimg.com/564x/6e/bc/e1/6ebce160088c34303dcbed03043ba0ff.jpg" width=31% align="left"/>
+    <img src="https://i.pinimg.com/originals/e4/15/c4/e415c48c6387706cc02f92b09501cab5.gif" width=31% align="center"/>
+    <img src="https://i.pinimg.com/originals/d7/36/1a/d7361a0960ad3d4b911e63ca54ade972.gif" width=31% height=160 align="right"/>
 </p>
 
 <!-- ![](https://komarev.com/ghpvc/?username=natekrth&color=orange) -->
@@ -79,6 +73,12 @@ My Gmail: **zion.keretho@gmail.com**
   <img height=180px width="280px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natekrth&layout=compact&theme=github_dark_dimmed&hide_border=true"/>
 </p>
 
+
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=natekrth" alt="natekrth"/ >
+  </a>
+</p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=natekrth&theme=dracula&show_icons=true&locale=en" alt="natekrth" /></p> -->
 <!-- 
