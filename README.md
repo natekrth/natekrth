@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="nate-banner.gif" width="100%" height=360>
+    <img src="nate-banner.gif" width=100% height=380>
 </p>
 
 <h3 align="center">About me 😊</h3> 
