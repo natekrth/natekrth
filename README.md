@@ -5,16 +5,14 @@
 <h3 align="center">About me 😊</h3> 
 
 
-<p align="left">
-  <li>Name: Zion Keretho</li>
-  <li>Nickname: Nate✈️</li>
-  <li>Study📚: Software and knowledge engineering student at Kasetsart University, Thailand 🇹🇭</li>
-  <li>Interest🤩: Web Development, Internet of Things (IoT), Software Security
-</p>
-
+- **Name:** Zion Keretho
+- **Nickname:** Nate✈️
+- **Study📚:** Software and knowledge engineering student at Kasetsart University, Thailand 🇹🇭
+- **Interest🤩:** Web Development, Internet of Things (IoT), Software Security
+ 
 <h3 align="center">Love ❤️</h3> 
 
-<p align="center">Aviation geek | Ocean Lover | Pop Pianist</p>
+<p align="center"><strong>Aviation geek | Ocean Lover | Pop Pianist</strong></p>
 <img src="https://i.pinimg.com/564x/6e/bc/e1/6ebce160088c34303dcbed03043ba0ff.jpg" width=31% align="left"/>
 <img src="https://i.pinimg.com/originals/e4/15/c4/e415c48c6387706cc02f92b09501cab5.gif" width=31% align="center"/>
 <img src="https://i.pinimg.com/originals/d7/36/1a/d7361a0960ad3d4b911e63ca54ade972.gif" width=30% height=160 align="right"/>
