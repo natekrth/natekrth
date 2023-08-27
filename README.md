@@ -1,18 +1,6 @@
-<h3 align="center">Hello 👋 </h3> 
-
-
-<!--  <p align="center"> <p align="left">
-    <img src="https://i.pinimg.com/564x/50/8a/b6/508ab6e1b12db69672d9bf2b1f795094.jpg" height=200 width=50% />
-  </p>
-  <p align="right">
-    <img src="https://i.pinimg.com/originals/4a/70/5e/4a705e028bb9f5d50995e68c791fb10a.gif" height=200 width=50% />
-  </p>
-</p> -->
-
 <p align="center">
-  <img src="https://i.pinimg.com/originals/4a/70/5e/4a705e028bb9f5d50995e68c791fb10a.gif" height=360 width=80% />
+    <img src="nate-banner.gif" width="100%" height=430>
 </p>
-
 
 <h3 align="center">About me 😊</h3> 
 
