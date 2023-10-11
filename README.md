@@ -7,7 +7,7 @@
 - **Name:** Zion Keretho
 - **Nickname:** Nate✈️
 - **Education📚:** Software and knowledge engineering student at Kasetsart University, Thailand 🇹🇭
-- **Interest🤩:** Web Development, Internet of Things (IoT), Software Security
+- **Interest🤩:** Web Development, DevOps, Internet of Things (IoT), Software Security
  
 <h3 align="center">Love ❤️</h3> 
 
