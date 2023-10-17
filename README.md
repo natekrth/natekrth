@@ -8,6 +8,7 @@
 - **Nickname:** Nate✈️
 - **Education📚:** Software and knowledge engineering student at Kasetsart University, Thailand 🇹🇭
 - **Interest🤩:** Web Development, DevOps, Internet of Things (IoT), Software Security
+- **Hobby:** Keyboardist in pop music band, Flying Flight Simulator, Sound Engineer, Music Producer, Media Team, Play games
  
 <h3 align="center">Love ❤️</h3> 
 
